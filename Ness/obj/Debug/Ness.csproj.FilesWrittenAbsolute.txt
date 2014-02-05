@@ -1,0 +1,8 @@
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/bin/Debug/UnityEngine.dll
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/bin/Debug/websocket-sharp.dll
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/bin/Debug/Ness.dll.mdb
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/bin/Debug/Ness.dll
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/obj/Debug/Ness.dll
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/obj/Debug/Ness.dll.mdb
+/Users/jeedee/Dropbox/Unity Projects/Ness/Ness/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
